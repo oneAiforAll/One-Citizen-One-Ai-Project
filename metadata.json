@@ -1,0 +1,8 @@
+{
+  "name": "AI for All Clair",
+  "description": "A pioneering initiative in Clair, New Brunswick where every citizen is empowered by an AI-partnered project to boost economy, mental health, and infrastructure.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
